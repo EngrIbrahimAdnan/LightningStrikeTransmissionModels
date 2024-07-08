@@ -1,3 +1,5 @@
+![image](https://github.com/EngrIbrahimAdnan/LightningStrikeTransmissionModels/assets/123921774/b8862963-739e-4be4-a4fd-b43d4ad5c1ad)
+
 # LightningStrikeTransmissionModels
 
 ## Overview

@@ -1,0 +1,4 @@
+[submodule "LightningStrikeTransmissionModels_private"]
+	path = LightningStrikeTransmissionModels_private
+	url = https://github.com/EngrIbrahimAdnan/LightningStrikeTransmissionModels_private.git
+	branch = main
